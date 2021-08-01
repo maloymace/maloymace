@@ -1,5 +1,6 @@
 body {
-    background-image: url("cosmic background.jpg");
+    background-image: url("cosmo.jpg");
+    background-repeat: no-repeat;
 }
 
 .title-maloy {
@@ -25,7 +26,7 @@ body {
     width: 731px;
     height: 174px;
 
-    font-family: Rubik Mono One;
+    font-family: Rubik Mono One, serif;
     font-style: normal;
     font-weight: normal;
     font-size: 36px;
@@ -40,7 +41,7 @@ body {
     width: 654px;
     height: 321px;
 
-    font-family: Rubik Mono One;
+    font-family: Rubik Mono One, serif;
     font-style: normal;
     font-weight: normal;
     font-size: 36px;
