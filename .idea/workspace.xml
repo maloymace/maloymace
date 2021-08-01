@@ -11,9 +11,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a9fa37c-2c66-4f7e-a0f6-0eb88c288e89" name="Default Changelist" comment="first changes">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kek/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/kek/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kek/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kek/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kek/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kek/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kek/public/img/cosmo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kek/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kek/public/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kek/src/index.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1627049083323</updated>
       <workItem from="1627049084555" duration="4665000" />
+      <workItem from="1627845552217" duration="19000" />
     </task>
     <task id="LOCAL-00001" summary="first changes">
       <created>1627822141168</created>
@@ -88,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627822235045</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first changes">
+      <created>1627845414566</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1627845414566</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,10 +135,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="766" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1627822354041" />
-    <state x="822" y="265" key="Vcs.Push.Dialog.v2" timestamp="1627844983003">
+    <state x="822" y="265" key="Vcs.Push.Dialog.v2" timestamp="1627845422061">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="822" y="265" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1627844983003" />
+    <state x="822" y="265" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1627845422061" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627844953075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
