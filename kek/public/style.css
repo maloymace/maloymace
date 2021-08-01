@@ -1,6 +1,6 @@
 body {
-    background-image: url("cosmo.jpg");
-    background-repeat: no-repeat;
+    background-image: url("img/cosmo.jpg");
+    background-size: 100%;
 }
 
 .title-maloy {
