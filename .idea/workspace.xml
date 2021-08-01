@@ -11,9 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a9fa37c-2c66-4f7e-a0f6-0eb88c288e89" name="Default Changelist" comment="first changes">
-      <change afterPath="$PROJECT_DIR$/kek/public/cosmo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kek/public/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/kek/public/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kek/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/kek/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +104,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first changes" />
@@ -118,14 +119,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="766" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1627822354041" />
-    <state x="822" y="265" key="Vcs.Push.Dialog.v2" timestamp="1627822300920">
+    <state x="822" y="265" key="Vcs.Push.Dialog.v2" timestamp="1627844983003">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="822" y="265" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1627822300920" />
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627822173857">
+    <state x="822" y="265" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1627844983003" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627844953075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1627822173857" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1627844953075" />
     <state x="802" y="238" width="632" height="564" key="git4idea.branch.GitBranchIsNotFullyMergedDialog" timestamp="1627822322908">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
